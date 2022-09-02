@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PriyanshuSharma23
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning mern stack
+- 👀 I’m do web development and app development(flutter)
 - 📫 Contact me at: <email>inbox.priyanshu@gmail.com</email>
 - 🌐 [Link to my Portfolio](https://priyanshusharma23.netlify.app) 
 
