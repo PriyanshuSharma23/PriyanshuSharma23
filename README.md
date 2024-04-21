@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PriyanshuSharma23
-- 👀 I do web development and app development(flutter)
+- 👀 I am a fullstack web developer \[NextJS, Golang, Flutter] 
 - 📫 Contact me at: <email>inbox.priyanshu@gmail.com</email>
 - 🌐 [Link to my Portfolio](https://priyanshusharma23.netlify.app) 
 
